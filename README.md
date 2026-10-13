@@ -2,7 +2,7 @@
 
 一套键盘和鼠标，在两台 Windows 电脑之间自然切换；文件拖到哪个文件夹，就在那里接收。
 
-本项目基于 **Microsoft Garage Mouse without Borders 独立版 2.2.1.0327** 制作，由社区独立维护。原项目由微软员工 **Truong Do** 开发，支持一套键鼠控制多台电脑。本项目提供中文界面与文件传输增强，是独立版的增强工具，不是微软官方发行版，也不是 PowerToys 的分支。
+本项目基于 **Microsoft Garage Mouse without Borders 独立版 2.2.1.0327** 制作，由社区独立维护。原项目由微软员工 **Truong Do** 开发，支持一套键鼠控制多台电脑。本项目提供中文界面与文件传输增强，是独立版的增强工具，不是微软官方发行版。
 
 原项目：[微软官方下载](https://www.microsoft.com/en-us/download/details.aspx?id=35460)。另一个由微软维护的开源实现位于 [Microsoft PowerToys](https://github.com/microsoft/PowerToys/tree/main/src/modules/MouseWithoutBorders)，与这里使用的独立版属于不同发行版本。
 
